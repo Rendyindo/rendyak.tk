@@ -1,0 +1,39 @@
+baseurl = "http://rendyak.tk/"
+googleAnalytics = "UA-XXXXX-Y"
+languageCode = "en-us"
+theme = "hugo-identity-theme"
+title = "Rendy Arya Kemal"
+
+[params]
+  appletouchicon = "apple-touch-icon-precomposed.png"
+  avatar = "rendyak.jpg"
+  background = "bg2.jpg"
+  email = "rendyarya22@gmail.com"
+  favicon = "favicon.ico"
+  name = "Rendy Arya Kemal"
+  position = "Android Dev"
+  [params.contact]
+    buttonText = "Send it"
+    emailPlaceholder = "Email"
+    enable = true
+    formTitle = "Touch Me!"
+    messagePlaceholder = "Message"
+    namePlaceholder = "Name"
+  [params.footer]
+    copyright = "Rendy Arya Kemal"
+
+  [[params.social]]
+    icon = "fa-twitter"
+    link = "https://twitter.com/RendyAK_XDA"
+    title = "Twitter"
+
+  [[params.social]]
+    icon = "fa-github"
+    link = "https://github.com/Rendyindo"
+    title = "Github"
+
+  [[params.social]]
+    icon = "fa-rss"
+    link = "http://rendyak.tk/blog"
+    title = "Blog"
+
